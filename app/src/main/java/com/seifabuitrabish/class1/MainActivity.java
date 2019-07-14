@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
        // Log.i("MyTag",myKickBoxer.toString());
         myBoxer.setNumberOfGloves(2);
         Log.i("Tag",myBoxer.getNumberOfGloves()+"");
+        Log.i("Tag",myBoxer.getNumberOfGloves()+"");
 
     }
 }
